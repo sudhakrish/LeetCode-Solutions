@@ -16,6 +16,7 @@
 		807F6AF52B860C190023D429 /* LeetCodeProblemsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 807F6AF42B860C190023D429 /* LeetCodeProblemsTests.swift */; };
 		807F6AFF2B860C190023D429 /* LeetCodeProblemsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 807F6AFE2B860C190023D429 /* LeetCodeProblemsUITests.swift */; };
 		807F6B012B860C190023D429 /* LeetCodeProblemsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 807F6B002B860C190023D429 /* LeetCodeProblemsUITestsLaunchTests.swift */; };
+		807F6B0E2B860D520023D429 /* 1480RunningSumof1dArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 807F6B0D2B860D520023D429 /* 1480RunningSumof1dArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		807F6AFA2B860C190023D429 /* LeetCodeProblemsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LeetCodeProblemsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		807F6AFE2B860C190023D429 /* LeetCodeProblemsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCodeProblemsUITests.swift; sourceTree = "<group>"; };
 		807F6B002B860C190023D429 /* LeetCodeProblemsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCodeProblemsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		807F6B0D2B860D520023D429 /* 1480RunningSumof1dArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1480RunningSumof1dArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				807F6ADD2B860C170023D429 /* AppDelegate.swift */,
 				807F6ADF2B860C170023D429 /* SceneDelegate.swift */,
 				807F6AE12B860C170023D429 /* ViewController.swift */,
+				807F6B0D2B860D520023D429 /* 1480RunningSumof1dArray.swift */,
 				807F6AE32B860C180023D429 /* Main.storyboard */,
 				807F6AE62B860C190023D429 /* Assets.xcassets */,
 				807F6AE82B860C190023D429 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				807F6B0E2B860D520023D429 /* 1480RunningSumof1dArray.swift in Sources */,
 				807F6AE22B860C170023D429 /* ViewController.swift in Sources */,
 				807F6ADE2B860C170023D429 /* AppDelegate.swift in Sources */,
 				807F6AE02B860C170023D429 /* SceneDelegate.swift in Sources */,
